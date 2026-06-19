@@ -23,7 +23,7 @@
 ```
 
 ---
-
+![snake](https://raw.githubusercontent.com/Nikushhaa/Nikushhaa/output/github-contribution-grid-snake.svg)
 # 🛠️ Tech Stack
 
 <div align="center">
