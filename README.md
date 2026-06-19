@@ -5,7 +5,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Engineer;Game+Developer;Web+Creator;Problem+Solver"/>
 
 <br>
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKz9bX9v2b1Z3y0/giphy.gif" width="700"/>
+</p>
 </div>
 
 ---
