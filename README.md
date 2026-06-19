@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- 🌊 HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20Nikushhaa&fontSize=55&fontAlignY=35"/>
 
 <!-- ⌨️ TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Engineer;Game+Developer;Web+Creator;Problem+Solver"/>
