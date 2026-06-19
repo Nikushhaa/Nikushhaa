@@ -87,7 +87,7 @@
 </div>
 
 ---
-<img src="https://raw.githubusercontent.com/Nikushhaa/Nikushhaa/output/github-contribution-grid-snake.svg"/>
+
 <!-- 🌊 FOOTER -->
 <div align="center">
 
