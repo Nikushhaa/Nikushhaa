@@ -37,7 +37,7 @@
 
 - 🤖 **Jarvis Assistant** → AI voice automation assistant  
 - 🎮 **Reverse Game** → Reversi game with AI opponent  
-- ⌨️ **TypingSpeedWebsite** → WPM & accuracy tracker  
+- ⌨️ **CodePilot** →  Modern open-source developer toolbox
 - 🌐 **Gaming Hub** → Modern gaming website UI  
 - 🍽️ **Restaurant Design** → Responsive restaurant website  
 
