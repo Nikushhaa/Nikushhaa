@@ -49,11 +49,7 @@
 <img src="https://streak-stats.demolab.com/?user=Nikushhaa&theme=tokyonight&hide_border=true"/>
 </div>
 ---
-# 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy-winning.vercel.app/?username=Nikushhaa&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
----
+
 
 # 📈 Focus Areas
 - 🌐 Web Development  
