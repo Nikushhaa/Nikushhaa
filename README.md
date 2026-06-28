@@ -44,18 +44,15 @@
 # 📊 GitHub Stats & Activity
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikushhaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikushhaa&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikushhaa&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikushhaa&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Nikushhaa&theme=tokyonight&hide_border=true"/>
 </div>
-
 ---
-
 # 🏆 GitHub Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nikushhaa&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy-winning.vercel.app/?username=Nikushhaa&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
-
 ---
 
 # 📈 Focus Areas
