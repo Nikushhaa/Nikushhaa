@@ -43,8 +43,8 @@
 
 # 📊 GitHub Stats & Activity
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikushhaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikushhaa&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikushhaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikushhaa&layout=compact&theme=tokyonight&hide_border=true&count_weight=1&size_weight=0"/>
 <br>
 <img src="https://streak-stats.demolab.com/?user=Nikushhaa&theme=tokyonight&hide_border=true"/>
 </div>
