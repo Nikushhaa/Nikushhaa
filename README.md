@@ -212,7 +212,7 @@ Pixel-perfect responsive restaurant website with smooth UX, mobile-first layout,
 <br>
 
 <div align="center">
-<sub>Open to collaborations on AI, game dev, and open source projects.</sub>
+<sub>Open to collaborations on AI and open source projects.</sub>
 </div>
 
 ---
