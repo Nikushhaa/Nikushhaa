@@ -168,26 +168,14 @@ Pixel-perfect responsive restaurant website with smooth UX, mobile-first layout,
 
 ---
 
-## `> analytics --dashboard`
 
-<div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Nikushhaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00f7ff&icon_color=00f7ff&text_color=8b9aad&bg_color=0d1117" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikushhaa&layout=compact&theme=tokyonight&hide_border=true&title_color=00f7ff&text_color=8b9aad&bg_color=0d1117&langs_count=6" />
+## `> streak.log()`
 
-<br/>
+[<div align="center">
+<img src="https://streak-stats.demolab.com/?user=Nikushhaa&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff&sideLabels=8b9aad&dates=8b9aad&currStreakNum=ffffff&sideNums=ffffff&cache_seconds=1800" />
 
-<img src="https://streak-stats.demolab.com/?user=Nikushhaa&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff&sideLabels=8b9aad&dates=8b9aad&currStreakNum=ffffff&sideNums=ffffff" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikushhaa&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Nikushhaa/Nikushhaa/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
+<img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/ai-robot.gif" width="95%"/>
 
 ---
 
@@ -219,7 +207,7 @@ Pixel-perfect responsive restaurant website with smooth UX, mobile-first layout,
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0a2a3a,100:00f7ff&height=100&section=footer&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0d1117,60:0a2a3a,100:00f7ff&height=100&section=footer" width="100%"/>
 
 <sub><sup>Nikushhaa · crafted with precision · updated continuously</sup></sub>
 
